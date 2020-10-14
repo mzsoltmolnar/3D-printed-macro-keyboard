@@ -2,7 +2,7 @@
 
 A Pro Micro board based, 3D printed, triple-layout macro keyboard with mechanical switches (Arduino IDE programmable). 
 
-Watch a short demo video [about the keyboard in action.](https://youtu.be/DfZe0mD9_6g)
+Watch a short demo video  <a href="https://youtu.be/DfZe0mD9_6g" target="_blank">about the keyboard in action.</a>
 
 <p align="center">
 <img width=80% height=80% src="/resources/github-cover.jpg">
