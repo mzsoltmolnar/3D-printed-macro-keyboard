@@ -37,5 +37,5 @@ Tested with:
 To compile the project, the following libraries are required:
   - HID-Project - v3.1.1: https://github.com/NicoHood/HID
   - Keypad - v2.6.1: https://playground.arduino.cc/Code/Keypad/
-  
+  <hr>
   #### For more projects and research, visit my website: https://mzsoltmolnar.github.io/
