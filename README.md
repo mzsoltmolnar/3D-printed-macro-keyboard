@@ -9,6 +9,15 @@ Watch a short demo video [about the keyboard in action.](https://youtu.be/DfZe0m
 <img width=80% height=80% src="/resources/github-cover.jpg">
 </p>
 
+### Table of contents
+
+<!--ts-->
+   * [Specifications](#specifications)
+   * [Compatibility](#compatibility)
+   * [Folders](#folders)
+   * [Dependencies](#dependencies)
+   * [Ideal 3D printing orientations](#ideal-3d-printing-orientations)
+<!--te-->
 
 ## Specifications
 Main features:
@@ -37,6 +46,16 @@ Tested with:
 To compile the project, the following libraries are required:
   - HID-Project - v3.1.1: https://github.com/NicoHood/HID
   - Keypad - v2.6.1: https://playground.arduino.cc/Code/Keypad/
+  
+  ## Ideal 3D printing orientations
+  
+<p align="center">
+<img width=50% height=50% src="/resources/ideal-orientation-top.jpg">
+</p>
+
+<p align="center">
+<img width=50% height=50% src="/resources/ideal-orientation-bottom.jpg">
+</p>
   
   <hr>
   
