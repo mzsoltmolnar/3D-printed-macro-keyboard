@@ -4,11 +4,6 @@ A Pro Micro board based, 3D printed, triple-layout macro keyboard with mechanica
 
 Watch a short demo video [about the keyboard in action.](https://youtu.be/DfZe0mD9_6g)
 
-
-<p align="center">
-<img width=80% height=80% src="/resources/github-cover.jpg">
-</p>
-
 ### Table of contents
 
 <!--ts-->
@@ -18,6 +13,11 @@ Watch a short demo video [about the keyboard in action.](https://youtu.be/DfZe0m
    * [Dependencies](#dependencies)
    * [Ideal 3D printing orientations](#ideal-3d-printing-orientations)
 <!--te-->
+
+<p align="center">
+<img width=80% height=80% src="/resources/github-cover.jpg">
+</p>
+
 
 ## Specifications
 Main features:
